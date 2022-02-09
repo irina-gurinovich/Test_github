@@ -1,0 +1,39 @@
+{
+	"name": "TestTestTestTest001",
+	"active": true,
+	"variations": [
+		{
+			"name": "on",
+			"configurations": "{background-color: #c37086",
+			"description": "",
+			"keys": [],
+			"segments": []
+		},
+		{
+			"name": "off",
+			"configurations": "{background-color: #a7af31",
+			"description": "",
+			"keys": [],
+			"segments": []
+		}
+	],
+	"allocation": 46,
+	"allocationSeed": -1803168890,
+	"seed": 1400221943,
+	"defaultRule": [
+		{
+			"variation": "on",
+			"size": 0
+		},
+		{
+			"variation": "off",
+			"size": 100
+		}
+	],
+	"defaultVariation": "off",
+	"baselineVariation": "on",
+	"killed": false,
+	"comment": "",
+	"createdAt": 1644055208666,
+	"modifiedAt": 1644055208666
+}
